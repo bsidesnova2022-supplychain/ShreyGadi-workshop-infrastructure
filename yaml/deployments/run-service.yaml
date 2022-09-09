@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:ShreyGadi-workshop-application-bfe44af926c7ced26d3ed75080d1afbc9c9e351b
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:ShreyGadi-workshop-application-3d5415af7f9f3b1982c5f162fd51c99883e951b1
         imagePullPolicy: Always
         name: pause
         resources: {}
